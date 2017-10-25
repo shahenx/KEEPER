@@ -1,9 +1,10 @@
 ✸ تنصيب سورس كيبــر✸
 ━━━━━━━━━
 افتح ترمنال وخلي اللكواد:⇩
-git clone https://github.com/Abutbar/PAIN.git
 
-cd PAIN
+git clone https://github.com/alqaser/KEEPER.git
+
+cd KEEPER
 
 chmod +x install.sh
 
@@ -11,7 +12,7 @@ chmod +x install.sh
 
 او نصب بكود واحد
 
-git clone https://github.com/Abutbar/PAIN.git && cd PAIN && chmod +x install.sh && ./install.sh
+git clone https://github.com/alqaser/KEEPER.git && cd KEEPER && chmod +x install.sh && ./install.sh
 
 ✿راح يطلب منك تخلي y الا ان يكمل تنصيب
 افتح ترمنال جديد :وخلي ⇩

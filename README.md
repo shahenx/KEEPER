@@ -1,5 +1,7 @@
 ✸ تنصيب سورس كيبــر✸
+
 ━━━━━━━━━
+
 افتح ترمنال وخلي اللكواد:⇩
 
 git clone https://github.com/alqaser/KEEPER.git

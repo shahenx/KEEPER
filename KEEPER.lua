@@ -1,5 +1,4 @@
-
-﻿serpent = require("serpent")
+serpent = require("serpent")
 lgi = require ('lgi')
 redis = require('redis')
 database = Redis.connect('127.0.0.1', 6379)

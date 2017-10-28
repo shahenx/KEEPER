@@ -10,7 +10,7 @@ redis = redis.connect("127.0.0.1", 6379)
 http.TIMEOUT = 10
 --------------------------------------------------------------------------------
 sudo_users = {334262610,334262610}
-bot_id = 418193961
+bot_id = 366410400
 day = 86400
 ch_id = -1001134994211
 Token = '418193961:AAHkbOmAiIo7pzgU0C-QSZ_zzbRB8YDlPhM'
